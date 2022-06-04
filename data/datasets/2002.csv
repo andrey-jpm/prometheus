@@ -1,0 +1,8 @@
+i,Ebeam,x,y,z,Q2,pT,obs,value,stat_u,systrel,systabs_u,target,hadron,col,Dependence
+14,27.6,0.086,0.592,0.234,2.423,0.346,AUTsivers,0.0333,0.005,0,0.0034,proton,pi_plus,hermes,z
+15,27.6,0.094,0.551,0.303,2.428,0.377,AUTsivers,0.0365,0.0057,0,0.0052,proton,pi_plus,hermes,z
+16,27.6,0.097,0.528,0.373,2.425,0.403,AUTsivers,0.0348,0.0067,0,0.007,proton,pi_plus,hermes,z
+17,27.6,0.099,0.514,0.447,2.418,0.429,AUTsivers,0.0463,0.0075,0,0.009,proton,pi_plus,hermes,z
+18,27.6,0.1,0.504,0.523,2.411,0.453,AUTsivers,0.0577,0.0096,0,0.011,proton,pi_plus,hermes,z
+19,27.6,0.101,0.494,0.593,2.4,0.465,AUTsivers,0.0623,0.0113,0,0.0128,proton,pi_plus,hermes,z
+20,27.6,0.103,0.478,0.663,2.385,0.465,AUTsivers,0.0803,0.0132,0,0.0146,proton,pi_plus,hermes,z
